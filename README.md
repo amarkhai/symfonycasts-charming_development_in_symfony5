@@ -1,0 +1,1 @@
+The repository for "Charming Development in Symfony 5" in SymfonyCasts: https://symfonycasts.com/screencast/symfony 
